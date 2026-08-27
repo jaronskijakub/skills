@@ -35,7 +35,7 @@ Mode: <student-writes | fifty-fifty | assistant-writes-student-reads>
 
 Rules:
 
-- Chapter count and sizing come from step 0.2 of `SKILL.md` — no fixed hour or step count, just sized to the stack.
-- A chapter's `Progress` entry is written once, at chapter end, after the quiz — not incrementally mid-chapter.
+- Chapter count and sizing come from step 0.2 of `SKILL.md`: no fixed hour or step count, just sized to the stack.
+- A chapter's `Progress` entry is written once, at chapter end, after the quiz, not incrementally mid-chapter.
 - `Quiz` entries are the only place recall gets recorded. No separate notes-per-chapter file.
 - `Assistant notes` is yours to maintain across the whole project; append short lines, never remove past ones unless they're contradicted by later evidence.
