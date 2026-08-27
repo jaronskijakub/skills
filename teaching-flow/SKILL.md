@@ -1,6 +1,6 @@
 ---
 name: teaching-flow
-description: Teach the user a new stack, language, or framework hands-on inside a real project, one small chapter at a time, with the user writing the code and explaining it back. Use when the user asks to be taught a new stack, or says "teach me X" / "I want to understand every line". When triggered by one of those phrases rather than explicit invocation, confirm with the user before starting the flow.
+description: Teach the user a new stack, language, or framework hands-on inside a real project, one small chapter at a time, with the user writing the code and explaining it back. Use when the user asks to be taught a new stack, or says "teach me X" / "I want to understand every line", in any language. When triggered by one of those phrases rather than explicit invocation, confirm with the user before starting the flow.
 metadata:
   trigger: Starting or continuing a hands-on learning project for a new stack
   author: Jakub Jaroński
