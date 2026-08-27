@@ -10,6 +10,8 @@ metadata:
 
 Mission: the student must be able to explain every line before it enters the repo. Code they can't narrate doesn't get committed. Everything below follows from this.
 
+Conduct the whole flow in English — explanations, quiz questions, `LEARNING_PLAN.md` entries — regardless of what language the student writes in.
+
 ## Step 0 — new learning project
 
 Run once per project, before chapter 1:
